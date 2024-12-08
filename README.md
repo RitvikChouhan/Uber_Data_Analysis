@@ -1,1 +1,3 @@
-# Uber_Data_Analysis
+Uber Data Analysis 🚖📊
+
+This project focuses on analyzing Uber trip data using Python to uncover insights and trends. The dataset was cleaned and transformed to ensure accuracy and consistency, enabling detailed analysis of trip patterns, peak hours, popular locations, and other key metrics. The project uses Python libraries like Pandas and NumPy for data manipulation, Matplotlib and Seaborn for visualization, and explores trends to understand customer behavior and operational efficiency. This analysis provides valuable insights into ride demand, supply patterns, and business strategies, helping stakeholders make informed decisions for optimizing Uber’s services.
